@@ -7,31 +7,29 @@
           "name": "Don-t Come Home",
           "image": "https://fr.web.img4.acsta.net/img/7c/2d/7c2dc0466e73e85786f4237578877bac.jpg",
           "theme": "Supernatural Mystery, Psychological Thriller",
+          "netflix_url": "https://www.netflix.com/title/81687279",
           "info": "A mother and daughter move into a family mansion only to face unsettling paranormal events and a dark disappearance. It is a slow-burn mystery that prioritizes atmosphere over jump scares."
         },
         {
           "name": "Terror Tuesday: Extreme",
           "image": "https://images.ctfassets.net/4cd45et68cgf/71FE8cx7yyv0aAWoACFRwp/a4a67f0df081d6d60443891e880fd885/en_us_tt_main_ensemble_square_1080px1080p-1x1_rgb_pre_1.jpg",
           "theme": "Anthology, Supernatural Horror",
+          "netflix_url": "https://www.netflix.com/title/81665512",
           "info": "An anthology series based on famous Thai radio ghost stories, exploring diverse hauntings and psychological terror. Each episode feels like a standalone movie, perfect for a weekly commitment."
         },
         {
           "name": "Death Whisperer (Tee Yod)",
           "image": "https://m.media-amazon.com/images/M/MV5BOTAzODdiNWEtZjU2MS00ZGE5LWI1MTctMTllZGJmOTk1ZDQxXkEyXkFqcGc@._V1_.jpg",
           "theme": "Folk Horror, Supernatural",
+          "netflix_url": "https://www.netflix.com/title/81905870",
           "info": "Set in rural Thailand in 1972, a family battles a bloodthirsty spirit that begins possessing their young daughter. This film captures authentic local folklore and deep-seated rural dread."
         },
         {
           "name": "Ziam",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3ZNJ-ZU4pn_9qTJiciZzyVMEbyLygIG4ag&s",
           "theme": "Action Horror, Zombie Survival",
+          "netflix_url": "https://www.netflix.com/title/82043768",
           "info": "A unique blend of Muay Thai martial arts and zombie survival set in a high-stakes environment. It offers a fresh Thai take on the undead genre with intense practical effects."
-        },
-        {
-          "name": "The Cursed Land",
-          "image": "https://www.gscmovies.com.my/wp-content/uploads/2024/07/Website-Poster-1-1.png",
-          "theme": "Supernatural Horror, Folklore",
-          "info": "A father and daughter move into a predominantly Muslim community only to be haunted by an ancient entity. It explores cultural superstitions and the consequences of disturbing sacred ground."
         }
       ]
     },
@@ -42,30 +40,35 @@
           "name": "When Life Gives You Tangerines",
           "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/When_Life_Gives_You_Tangerines_poster.png",
           "theme": "Romance, Slice of Life",
+          "netflix_url": "https://www.netflix.com/title/81280936",
           "info": "Set on Jeju Island across four seasons, this drama follows a rebellious dreamer and her diligent childhood friend. It captures the same visual yearning and emotional depth as 'Your Name'."
         },
         {
           "name": "Queen of Tears",
           "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Queen_of_Tears_poster.png",
           "theme": "Romance, Melodrama",
+          "netflix_url": "https://www.netflix.com/title/81726576",
           "info": "A high-stakes marital crisis turns into a miraculous second chance at love for a wealthy heiress and her husband. This series is famous for its emotional highs and high-production value."
         },
         {
           "name": "Lost in Starlight",
           "image": "https://images.ctfassets.net/4cd45et68cgf/4LmoUf53sLST7G3FpscxmY/787b46af5e973b29d020813f9720a755/ENUS_LostinStarlight_TeaserKA_Vertical_RGB_PRE.jpg?w=1200",
           "theme": "Sci-Fi Romance, Animated",
+          "netflix_url": "https://www.netflix.com/title/82070679",
           "info": "An astronaut and a musician maintain a long-distance relationship between Earth and Mars in this beautiful animation. It is perfect for fans of 'Violet Evergarden' who enjoy stories of distance and devotion."
         },
         {
           "name": "My Demon",
           "image": "https://image.tmdb.org/t/p/original/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
           "theme": "Fantasy Romance, Supernatural",
+          "netflix_url": "https://www.netflix.com/title/81737638",
           "info": "A cold-hearted demon loses his powers to a skeptical heiress and must protect her to regain them. It balances supernatural stakes with a visually stunning romantic narrative."
         },
         {
           "name": "Twenty Five Twenty One",
           "image": "https://m.media-amazon.com/images/M/MV5BYTdjZWExZmMtZTY0Yy00N2U3LTkyYmYtMGNjZjUyZTM0Njg0XkEyXkFqcGc@._V1_.jpg",
           "theme": "Coming-of-Age, Nostalgic Romance",
+          "netflix_url": "https://www.netflix.com/title/81580267",
           "info": "Set during a financial crisis, it follows an aspiring fencer and a young man seeking to rebuild his life. The nostalgic visuals and emotional weight match her favorite anime perfectly."
         }
       ]
@@ -77,31 +80,22 @@
           "name": "Re/Member",
           "image": "https://m.media-amazon.com/images/M/MV5BZTEzMjVhMTMtODQ2NC00ODcyLThhNTMtMmRmMTYzYzJmNjA3XkEyXkFqcGc@._V1_.jpg",
           "theme": "Supernatural Mystery, Time Loop",
+          "netflix_url": "https://www.netflix.com/title/81662786",
           "info": "High school students are trapped in a deadly time loop where they must find the remains of a murder victim to escape. It combines teenage drama with unsettling Japanese supernatural tropes."
         },
         {
           "name": "Ju-On: Origins",
           "image": "https://m.media-amazon.com/images/I/41yHFw+jmTL._AC_UF894,1000_QL80_.jpg",
           "theme": "Psychological Horror, Curse",
+          "netflix_url": "https://www.netflix.com/title/81953858",
           "info": "This series explores the realistic, dark origins of the legendary Ju-On curse through a paranormal researcher's investigation. It is gritty and atmospheric, avoiding the typical action of Western horror."
         },
         {
           "name": "Re/Member: The Last Night",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgjDkPO0nhH0NxUsAyXTYHlee3VktdYM2NQ&s",
           "theme": "Supernatural Horror, Mystery",
+          "netflix_url": "https://www.netflix.com/title/82694010",
           "info": "The terrifying 'Body Search' returns in this sequel that delves deeper into the origins of the Red Person curse. It offers a more intense and darker continuation of the original time-loop premise."
-        },
-        {
-          "name": "Exit 8",
-          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/The_exit_8_film.jpeg/250px-The_exit_8_film.jpeg",
-          "theme": "Psychological Horror, Mystery",
-          "info": "Based on the viral video game, characters are trapped in a liminal subway passage and must spot anomalies to survive. It focuses on observation and psychological dread rather than traditional jump scares."
-        },
-        {
-          "name": "Pulse (Kairo)",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5_GgD4j7CGEBj_ckftOtcKcp8QY3SIr_xw&s",
-          "theme": "Techno-Horror, Supernatural",
-          "info": "A haunting exploration of how modern technology can serve as a bridge for the dead to enter the living world. It is famous for its overwhelming sense of isolation and chilling sound design."
         }
       ]
     },
@@ -112,31 +106,29 @@
           "name": "The Summer Hikaru Died",
           "image": "https://resizing.flixster.com/TVkTT5PYNxC-b7QEb9gDFWfZAXA=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMWJkODkyZmEtMTYzYy00YjFjLTkxMzktNWVhYzY5ZDNlMDY2LmpwZw==",
           "theme": "Psychological Horror, Supernatural Mystery",
+          "netflix_url": "https://www.netflix.com/title/82036949",
           "info": "A teenager realizes his best friend has been replaced by a mysterious supernatural entity imitating his human form. It is a slow-burn coming-of-age story that is deeply eerie and emotional."
         },
         {
           "name": "Mononoke The Movie: Phantom in the Rain",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bE_-oya_xFZLV4DuEwoq1mHbd56Qtcu61w&s",
           "theme": "Supernatural Fantasy, Mystery",
+          "netflix_url": "https://www.netflix.com/title/81918796",
           "info": "A mysterious traveler hunts vengeful spirits in a world with a distinct, paper-like animation style. Fans of 'Violet Evergarden' will appreciate the incredible visual artistry and emotional storytelling."
         },
         {
           "name": "Junji Ito Maniac: Japanese Tales of the Macabre",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtQubTYeC8YjN9-YnhgVSlantkP_J5ESE9A&s",
           "theme": "Surreal Horror, Anthology Anime",
+          "netflix_url": "https://www.netflix.com/title/81662052",
           "info": "An anthology of short, disturbing stories from the master of Japanese horror manga. Each episode presents a unique, mind-bending scenario focused on psychological dread."
         },
         {
           "name": "The Grimm Variations",
           "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/The_Grimm_Variations_poster.png/250px-The_Grimm_Variations_poster.png",
           "theme": "Dark Fantasy, Mystery",
+          "netflix_url": "https://www.netflix.com/title/81771518",
           "info": "A dark reimagining of classic Brothers Grimm fairy tales with unpredictable and often horrifying psychological twists. Each episode moves the stories to new settings like dystopian futures or historical Japan."
-        },
-        {
-          "name": "Death Note",
-          "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Death_Note_Characters.jpg/250px-Death_Note_Characters.jpg",
-          "theme": "Psychological Thriller, Supernatural",
-          "info": "A high school student discovers a notebook that can kill anyone whose name is written in it. It is a legendary battle of wits between a genius vigilante and a world-class detective."
         }
       ]
     }
