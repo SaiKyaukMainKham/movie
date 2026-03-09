@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Movie Collection</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #0f172a; color: white; }
+        .movie-card:hover { transform: translateY(-5px); transition: 0.3s; }
+    </style>
+</head>
+<body class="p-8">
+    <div id="app" class="max-w-6xl mx-auto">
+        <header class="mb-12 text-center">
+            <h1 class="text-4xl font-extrabold text-red-500 tracking-tight">🎬 MOVIE SELECTION</h1>
+            <p class="text-gray-400 mt-2">Curated categories and previews</p>
+        </header>
+
+        <div id="movie-content">
+            <!-- Data will be injected here -->
+        </div>
+    </div>
+
+    <script>
+        async function loadMovies() {
+            try {
+                const response = await fetch('movies.json');
+                const data = await response.json();
+                const container = document.getElementById('movie-content');
+
+                data.categories.forEach(cat => {
+                    const section = document.createElement('section');
+                    section.className = 'mb-16';
+                    section.innerHTML = `<h2 class="text-2xl font-bold mb-6 border-l-4 border-red-500 pl-4 uppercase tracking-widest text-gray-200">${cat.category_name}</h2>`;
+
+                    const grid = document.createElement('div');
+                    grid.className = 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8';
+
+                    cat.movies.forEach(movie => {
+                        grid.innerHTML += `
+                            <div class="movie-card bg-gray-800 rounded-xl overflow-hidden shadow-2xl flex flex-col h-full border border-gray-700">
+                                <img src="${movie.image}" alt="${movie.name}" class="w-full h-72 object-cover">
+                                <div class="p-5 flex flex-col flex-grow">
+                                    <h3 class="text-xl font-bold text-white mb-1">${movie.name}</h3>
+                                    <span class="inline-block bg-red-900/30 text-red-400 text-xs px-2 py-1 rounded mb-3 self-start font-medium">${movie.theme}</span>
+                                    <p class="text-sm text-gray-400 leading-relaxed line-clamp-4">${movie.info}</p>
+                                </div>
+                            </div>
+                        `;
+                    });
+
+                    section.appendChild(grid);
+                    container.appendChild(section);
+                });
+            } catch (err) {
+                console.error("Error loading JSON:", err);
+                document.getElementById('movie-content').innerHTML = '<div class="text-center text-red-400 py-10">Error: Please ensure movies.json exists in the same folder.</div>';
+            }
+        }
+        loadMovies();
+    </script>
+</body>
+</html>

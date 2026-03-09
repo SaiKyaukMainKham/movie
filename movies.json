@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "category_name": "Thai Horror & Mystery",
+      "movies": [
+        {
+          "name": "Don't Come Home",
+          "image": "https://www.google.com",
+          "theme": "Supernatural Mystery, Psychological Thriller",
+          "info": "A mother and daughter move into a family mansion only to face unsettling paranormal events and a dark disappearance. It is a slow-burn mystery that prioritizes atmosphere over jump scares."
+        },
+        {
+          "name": "Terror Tuesday: Extreme",
+          "image": "https://www.google.com",
+          "theme": "Anthology, Supernatural Horror",
+          "info": "An anthology series based on famous Thai radio ghost stories, exploring diverse hauntings and psychological terror. Each episode feels like a standalone movie, perfect for a weekly commitment."
+        },
+        {
+          "name": "Death Whisperer (Tee Yod)",
+          "image": "https://www.google.com",
+          "theme": "Folk Horror, Supernatural",
+          "info": "Set in rural Thailand in 1972, a family battles a bloodthirsty spirit that begins possessing their young daughter. This film captures authentic local folklore and deep-seated rural dread."
+        },
+        {
+          "name": "Ziam",
+          "image": "https://www.google.com",
+          "theme": "Action Horror, Zombie Survival",
+          "info": "A unique blend of Muay Thai martial arts and zombie survival set in a high-stakes environment. It offers a fresh Thai take on the undead genre with intense practical effects."
+        },
+        {
+          "name": "The Cursed Land",
+          "image": "https://www.google.com",
+          "theme": "Supernatural Horror, Folklore",
+          "info": "A father and daughter move into a predominantly Muslim community only to be haunted by an ancient entity. It explores cultural superstitions and the consequences of disturbing sacred ground."
+        }
+      ]
+    },
+    {
+      "category_name": "Emotional K-Dramas",
+      "movies": [
+        {
+          "name": "When Life Gives You Tangerines",
+          "image": "https://www.google.com",
+          "theme": "Romance, Slice of Life",
+          "info": "Set on Jeju Island across four seasons, this drama follows a rebellious dreamer and her diligent childhood friend. It captures the same visual yearning and emotional depth as 'Your Name'."
+        },
+        {
+          "name": "Queen of Tears",
+          "image": "https://www.google.com",
+          "theme": "Romance, Melodrama",
+          "info": "A high-stakes marital crisis turns into a miraculous second chance at love for a wealthy heiress and her husband. This series is famous for its emotional highs and high-production value."
+        },
+        {
+          "name": "Lost in Starlight",
+          "image": "https://www.google.com",
+          "theme": "Sci-Fi Romance, Animated",
+          "info": "An astronaut and a musician maintain a long-distance relationship between Earth and Mars in this beautiful animation. It is perfect for fans of 'Violet Evergarden' who enjoy stories of distance and devotion."
+        },
+        {
+          "name": "My Demon",
+          "image": "https://www.google.com",
+          "theme": "Fantasy Romance, Supernatural",
+          "info": "A cold-hearted demon loses his powers to a skeptical heiress and must protect her to regain them. It balances supernatural stakes with a visually stunning romantic narrative."
+        },
+        {
+          "name": "Twenty Five Twenty One",
+          "image": "https://www.google.com",
+          "theme": "Coming-of-Age, Nostalgic Romance",
+          "info": "Set during a financial crisis, it follows an aspiring fencer and a young man seeking to rebuild his life. The nostalgic visuals and emotional weight match her favorite anime perfectly."
+        }
+      ]
+    },
+    {
+      "category_name": "Japanese Horror Movies",
+      "movies": [
+        {
+          "name": "Re/Member",
+          "image": "https://www.google.com",
+          "theme": "Supernatural Mystery, Time Loop",
+          "info": "High school students are trapped in a deadly time loop where they must find the remains of a murder victim to escape. It combines teenage drama with unsettling Japanese supernatural tropes."
+        },
+        {
+          "name": "Ju-On: Origins",
+          "image": "https://www.google.com",
+          "theme": "Psychological Horror, Curse",
+          "info": "This series explores the realistic, dark origins of the legendary Ju-On curse through a paranormal researcher's investigation. It is gritty and atmospheric, avoiding the typical action of Western horror."
+        },
+        {
+          "name": "Re/Member: The Last Night",
+          "image": "https://www.google.com",
+          "theme": "Supernatural Horror, Mystery",
+          "info": "The terrifying 'Body Search' returns in this sequel that delves deeper into the origins of the Red Person curse. It offers a more intense and darker continuation of the original time-loop premise."
+        },
+        {
+          "name": "Exit 8",
+          "image": "https://www.google.com",
+          "theme": "Psychological Horror, Mystery",
+          "info": "Based on the viral video game, characters are trapped in a liminal subway passage and must spot anomalies to survive. It focuses on observation and psychological dread rather than traditional jump scares."
+        },
+        {
+          "name": "Pulse (Kairo)",
+          "image": "https://www.google.com",
+          "theme": "Techno-Horror, Supernatural",
+          "info": "A haunting exploration of how modern technology can serve as a bridge for the dead to enter the living world. It is famous for its overwhelming sense of isolation and chilling sound design."
+        }
+      ]
+    },
+    {
+      "category_name": "Horror & Mystery Anime",
+      "movies": [
+        {
+          "name": "The Summer Hikaru Died",
+          "image": "https://www.google.com",
+          "theme": "Psychological Horror, Supernatural Mystery",
+          "info": "A teenager realizes his best friend has been replaced by a mysterious supernatural entity imitating his human form. It is a slow-burn coming-of-age story that is deeply eerie and emotional."
+        },
+        {
+          "name": "Mononoke The Movie: Phantom in the Rain",
+          "image": "https://www.google.com",
+          "theme": "Supernatural Fantasy, Mystery",
+          "info": "A mysterious traveler hunts vengeful spirits in a world with a distinct, paper-like animation style. Fans of 'Violet Evergarden' will appreciate the incredible visual artistry and emotional storytelling."
+        },
+        {
+          "name": "Junji Ito Maniac: Japanese Tales of the Macabre",
+          "image": "https://www.google.com",
+          "theme": "Surreal Horror, Anthology Anime",
+          "info": "An anthology of short, disturbing stories from the master of Japanese horror manga. Each episode presents a unique, mind-bending scenario focused on psychological dread."
+        },
+        {
+          "name": "The Grimm Variations",
+          "image": "https://www.google.com",
+          "theme": "Dark Fantasy, Mystery",
+          "info": "A dark reimagining of classic Brothers Grimm fairy tales with unpredictable and often horrifying psychological twists. Each episode moves the stories to new settings like dystopian futures or historical Japan."
+        },
+        {
+          "name": "Death Note",
+          "image": "https://www.google.com",
+          "theme": "Psychological Thriller, Supernatural",
+          "info": "A high school student discovers a notebook that can kill anyone whose name is written in it. It is a legendary battle of wits between a genius vigilante and a world-class detective."
+        }
+      ]
+    }
+  ]
+}
