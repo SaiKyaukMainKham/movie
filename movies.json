@@ -5,31 +5,31 @@
       "movies": [
         {
           "name": "Don't Come Home",
-          "image": "https://mydramalist.com/photos/YYmBQW_4",
+          "image": "https://fr.web.img4.acsta.net/img/7c/2d/7c2dc0466e73e85786f4237578877bac.jpg",
           "theme": "Supernatural Mystery, Psychological Thriller",
           "info": "A mother and daughter move into a family mansion only to face unsettling paranormal events and a dark disappearance. It is a slow-burn mystery that prioritizes atmosphere over jump scares."
         },
         {
           "name": "Terror Tuesday: Extreme",
-          "image": "https://www.google.com",
+          "image": "https://images.ctfassets.net/4cd45et68cgf/71FE8cx7yyv0aAWoACFRwp/a4a67f0df081d6d60443891e880fd885/en_us_tt_main_ensemble_square_1080px1080p-1x1_rgb_pre_1.jpg",
           "theme": "Anthology, Supernatural Horror",
           "info": "An anthology series based on famous Thai radio ghost stories, exploring diverse hauntings and psychological terror. Each episode feels like a standalone movie, perfect for a weekly commitment."
         },
         {
           "name": "Death Whisperer (Tee Yod)",
-          "image": "https://www.google.com",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTAzODdiNWEtZjU2MS00ZGE5LWI1MTctMTllZGJmOTk1ZDQxXkEyXkFqcGc@._V1_.jpg",
           "theme": "Folk Horror, Supernatural",
           "info": "Set in rural Thailand in 1972, a family battles a bloodthirsty spirit that begins possessing their young daughter. This film captures authentic local folklore and deep-seated rural dread."
         },
         {
           "name": "Ziam",
-          "image": "https://www.google.com",
+          "image": "https://en.wikipedia.org/wiki/Ziam#/media/File:Ziam_film.jpeg",
           "theme": "Action Horror, Zombie Survival",
           "info": "A unique blend of Muay Thai martial arts and zombie survival set in a high-stakes environment. It offers a fresh Thai take on the undead genre with intense practical effects."
         },
         {
           "name": "The Cursed Land",
-          "image": "https://www.google.com",
+          "image": "https://www.gscmovies.com.my/wp-content/uploads/2024/07/Website-Poster-1-1.png",
           "theme": "Supernatural Horror, Folklore",
           "info": "A father and daughter move into a predominantly Muslim community only to be haunted by an ancient entity. It explores cultural superstitions and the consequences of disturbing sacred ground."
         }
@@ -40,31 +40,31 @@
       "movies": [
         {
           "name": "When Life Gives You Tangerines",
-          "image": "https://www.google.com",
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/When_Life_Gives_You_Tangerines_poster.png",
           "theme": "Romance, Slice of Life",
           "info": "Set on Jeju Island across four seasons, this drama follows a rebellious dreamer and her diligent childhood friend. It captures the same visual yearning and emotional depth as 'Your Name'."
         },
         {
           "name": "Queen of Tears",
-          "image": "https://www.google.com",
+          "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/Queen_of_Tears_poster.png",
           "theme": "Romance, Melodrama",
           "info": "A high-stakes marital crisis turns into a miraculous second chance at love for a wealthy heiress and her husband. This series is famous for its emotional highs and high-production value."
         },
         {
           "name": "Lost in Starlight",
-          "image": "https://www.google.com",
+          "image": "https://images.ctfassets.net/4cd45et68cgf/4LmoUf53sLST7G3FpscxmY/787b46af5e973b29d020813f9720a755/ENUS_LostinStarlight_TeaserKA_Vertical_RGB_PRE.jpg?w=1200",
           "theme": "Sci-Fi Romance, Animated",
           "info": "An astronaut and a musician maintain a long-distance relationship between Earth and Mars in this beautiful animation. It is perfect for fans of 'Violet Evergarden' who enjoy stories of distance and devotion."
         },
         {
           "name": "My Demon",
-          "image": "https://www.google.com",
+          "image": "https://image.tmdb.org/t/p/original/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
           "theme": "Fantasy Romance, Supernatural",
           "info": "A cold-hearted demon loses his powers to a skeptical heiress and must protect her to regain them. It balances supernatural stakes with a visually stunning romantic narrative."
         },
         {
           "name": "Twenty Five Twenty One",
-          "image": "https://www.google.com",
+          "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Twenty-Five_Twenty-One.jpg",
           "theme": "Coming-of-Age, Nostalgic Romance",
           "info": "Set during a financial crisis, it follows an aspiring fencer and a young man seeking to rebuild his life. The nostalgic visuals and emotional weight match her favorite anime perfectly."
         }
@@ -142,4 +142,5 @@
     }
   ]
 }
+
 
